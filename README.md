@@ -1,2 +1,0 @@
-# vueButton
-Created with CodeSandbox
